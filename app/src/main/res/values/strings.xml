@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+
+    <string name="sign_up">REGISTRAME</string>
+    <string name="sign_in">ENTRAR</string>
+</resources>
